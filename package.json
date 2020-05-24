@@ -5,10 +5,19 @@
   "scripts": {
     "test": "jasmine"
   },
-  "author": "",
+  "author": "Simon",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "jasmine": "^3.5.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonZikhali/password_checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SimonZikhali/password_checker/issues"
+  },
+  "homepage": "https://github.com/SimonZikhali/password_checker#readme"
 }
